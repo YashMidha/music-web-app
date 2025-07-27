@@ -27,6 +27,5 @@ const App = () => {
   )
 }
 
-// why dont we change the status of src using ref itself
 
 export default App;
